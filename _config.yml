@@ -1,9 +1,7 @@
-favicon: null
 name: Dante Monteverde
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.2892245282419026
+typography_spectrum: 0
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5812443448230624
-  brandStrength: 0.7172336881048977
-  rhythmicContrast: 0.191800873959437
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+  brandStrength: 0.7172336881048977
   lightness: 0.8378150595817715
-typography_spectrum: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.2892245282419026
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.5812443448230624
+  rhythmicContrast: 0.191800873959437
+purpose: []
